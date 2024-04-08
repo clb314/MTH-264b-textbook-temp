@@ -12,7 +12,7 @@
       <!--xi:include href="./section2-1-system.ptx"/-->
 
       <xi:include href="./pretextguide.ptx"/>
-
+      <xi:include href="./appendix-01-points.ptx"/>
       
     
     </chapter>
